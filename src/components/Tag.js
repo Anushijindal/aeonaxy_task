@@ -16,7 +16,7 @@ const Tag = () => {
           efficiency, professionalism, and results into the work they do
         </p>
         <Link to={"/contact"}>
-          <button className="mx-4 m-6 md:mb-12 mb-5 font-normal text-xs bg-blue-700  text-white py-2 md:px-4 px-2 rounded-2xl">
+          <button className="hover:border-2 hover:border-slate-800 mx-4 m-6 md:mb-12 mb-5 font-normal text-xs bg-blue-700  text-white py-2 md:px-4 px-2 rounded-2xl">
             Contact Sales
           </button>
         </Link>

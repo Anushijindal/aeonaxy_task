@@ -35,7 +35,7 @@ const Nav = () => {
         <Link to={"/login"}><button className="md:mx-4 mx-1 text-xs md:text-base mt-9 font-bold">
           Log In
         </button></Link>
-        <button className="md:mx-4 mx-1 mt-9 font-normal text-xs bg-blue-500 text-white md:py-3 py-1 md:px-4 px-1 rounded-2xl">
+        <button className="hover:border-2 hover:border-slate-800 md:mx-4 mx-1 mt-9 font-normal text-xs bg-blue-500 text-white md:py-3 py-1 md:px-4 px-1 rounded-2xl">
           Get Started
         </button>
       </div>

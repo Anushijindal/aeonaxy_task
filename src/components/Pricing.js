@@ -12,7 +12,7 @@ const Pricing = () => {
         meetings <br /> without the back-and-forth
       </p>
       <div>
-        <button className="md:mx-4 mx-1 md:mt-10 mt-5 font-normal text-xs bg-blue-500  text-white md:py-4 py-2 md:px-8 px-3 rounded-3xl">
+        <button className="hover:border-2 hover:border-white md:mx-4 mx-1 md:mt-10 mt-5 font-normal text-xs bg-blue-500  text-white md:py-4 py-2 md:px-8 px-3 rounded-3xl">
           Start for free
         </button>
         <Link to={"/contact"}>

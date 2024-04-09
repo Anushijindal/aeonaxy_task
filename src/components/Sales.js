@@ -11,7 +11,7 @@ const Sales = () => {
         Components are added according to the requirements😊
       </p>
       <Link to={"/"}>
-        <button className="md:mx-4 mx-1 mt-9 font-normal text-xs bg-blue-500 text-white md:py-3 py-1 md:px-4 px-1 rounded-2xl">
+        <button className="hover:border-2 hover:border-slate-800 md:mx-4 mx-1 mt-9 font-normal text-xs bg-blue-500 text-white md:py-3 py-1 md:px-4 px-1 rounded-2xl">
           Home
         </button>
       </Link>

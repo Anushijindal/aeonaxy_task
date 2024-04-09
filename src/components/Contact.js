@@ -39,11 +39,11 @@ const Contact = () => {
             />
             <br />
             <input
-              className="md:mx-4 mx-1 mt-9 font-normal text-xs bg-blue-500 text-white md:py-3 py-1 md:px-4 px-2 rounded-2xl"
+              className="hover:border-2 hover:border-white cursor-pointer md:mx-4 mx-1 mt-9 font-normal text-xs bg-blue-500 text-white md:py-3 py-1 md:px-4 px-2 rounded-2xl"
               type="submit"
             />
             <Link to={"/"}>
-              <button className="md:mx-4 mx-1 mt-9 font-normal text-xs bg-blue-500 text-white md:py-3 py-1 md:px-4 px-2 rounded-2xl">
+              <button className="hover:border-2 hover:border-white md:mx-4 mx-1 mt-9 font-normal text-xs bg-blue-500 text-white md:py-3 py-1 md:px-4 px-2 rounded-2xl">
                 Home
               </button>
             </Link>
@@ -59,7 +59,7 @@ const Contact = () => {
             We will to reach as soon as possible
           </h1>
           <Link to={"/"}>
-            <button className="md:mx-4 mx-1 mt-9 font-normal text-xs bg-blue-500 text-white py-2 px-4 rounded-2xl">
+            <button className="md:mx-4 mx-1 mt-9 font-normal text-xs bg-blue-500 text-white py-2 px-4 rounded-2xl hover:border-2 hover:border-white">
               Home
             </button>
           </Link>
